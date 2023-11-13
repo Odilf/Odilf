@@ -1,1 +1,3 @@
-I'm a dude that codes sometimes. Here i have all my shit
+Computer science at TUDelft.
+
+https://odilf.com
